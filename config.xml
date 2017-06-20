@@ -1,1 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/0.0.1"
+    id          = "com.phonegap.anxietyapp"
+    versionCode = "0.1"
+    version     = "0.0.1" >
 
+<!-- versionCode is optional and Android only -->
+
+  <name>Fear Fighter</name>
+
+  <description>
+      A gamified approach to coping with anxiety
+  </description>
+
+  <author href="umadwivedi.tumblr.com" email="umusings@outlook.com">
+      Uma Dwivedi
+  </author>
+
+</widget>
